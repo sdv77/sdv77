@@ -6,12 +6,9 @@ I'm a various developer who tries...🙂
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [dmitry.dima-sol@yandex.ru](mailto:dmitry.dima-sol@yandex.ru)
-* 🚀  I'm currently working on [incredibly cool company (pls give me offer)](http://tenor.com/ru/view/kiss-gif-26423677)
+* 🚀  I'm currently working on [incredibly cool company (pls give me offer)](https://tenor.com/ru/view/capy-gif-25853333)
 * 🧠  I'm learning Dart/Flutter
 * 🤝  I'm open to collaborating on some interesting and useful projects
-
-<a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=000000&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
