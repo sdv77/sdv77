@@ -1,8 +1,4 @@
-Hi 👋 My name is Dmitry (sdv77)
-===============================
-
-I'm a various developer who tries...🙂
---------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair&size=28&pause=1000&color=00F706&width=435&lines=Hi+%F0%9F%91%8B+My+name+is+Dmitry+(sdv77);I'm+a+various+developer+who+tries...)](https://git.io/typing-svg)
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [dmitry.dima-sol@yandex.ru](mailto:dmitry.dima-sol@yandex.ru)
