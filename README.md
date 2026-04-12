@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=32&pause=1000&color=09F72E&background=000000&vCenter=true&width=435&lines=Welcome+to+my+page%F0%9F%91%8B;My+name+is+Dmitry+(sdv77)+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Enjoying+DevOps%F0%9F%93%A6%F0%9F%90%B3)](https://git.io/typing-svg)
 ### Have experience with many technologies, but here are the most basic ones
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 #### Rarely visit codewars
 [![codewars](https://www.codewars.com/users/sdv77/badges/large)](https://www.codewars.com/users/sdv77) 
